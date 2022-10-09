@@ -4,3 +4,4 @@ C:\Users\RRagini\source\repos\DemoTest\DemoTest\obj\Debug\DemoTest.csproj.CoreCo
 C:\Users\RRagini\source\repos\DemoTest\DemoTest\obj\Debug\DemoTest.exe
 C:\Users\RRagini\source\repos\DemoTest\DemoTest\obj\Debug\DemoTest.pdb
 C:\Users\RRagini\source\repos\DemoTest\DemoTest\bin\Debug\DemoTest.pdb
+C:\Users\RRagini\source\repos\DemoTest\DemoTest\obj\Debug\DemoTest.csproj.AssemblyReference.cache
